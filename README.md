@@ -1,8 +1,9 @@
 # fashion MNIST  Classification
 
-This was a [Data Challenge](https://www.kaggle.com/c/fall-2018-stat-441841-data-challenge-1) done as part of University of Waterloo STAT 441 : Statistical Learning - Classification class. Using the data set borrowed from [Fashion MNIST](https://www.kaggle.com/zalando-research/fashionmnist/data) the aim was to predict the label for each id in the test set.
+This was a [Data Challenge](https://www.kaggle.com/c/fall-2018-stat-441841-data-challenge-1) hosted on Kaggle done as part of University of Waterloo STAT 441 : Statistical Learning - Classification class. Using the data set borrowed from [Fashion MNIST](https://www.kaggle.com/zalando-research/fashionmnist/data) the aim was to predict the label for each id in the test set.
 
 Restrictions
+* Test set from original page can not be used
 * Test set information can not be used when developing model
 * 3 submissions per day
 
