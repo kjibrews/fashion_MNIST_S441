@@ -21,3 +21,7 @@ Description | T-shirt/top | Trouser | Pullover | Dress | Coat | Sandal | Shirt |
 * sample_submission.csv - a sample submission file in the correct format
 
 ## Approach
+
+## Result
+* Scoring was based on Categorization Accuracy.
+* At the end of the competition, my final score was 0.93066.
